@@ -1,0 +1,3 @@
+# Astro Runtime includes the following pre-installed providers packages: https://www.astronomer.io/docs/astro/runtime-image-architecture#provider-packages
+
+blueprint-shared-templates-demo @ https://github.com/astronomer/blueprint-shared-templates-demo/releases/download/v0.1.0/blueprint_shared_templates_demo-0.1.0-py3-none-any.whl

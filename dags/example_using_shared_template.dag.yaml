@@ -1,0 +1,7 @@
+dag_id: example_using_shared_template
+
+steps:
+  step1:
+    blueprint: example
+    foo: "Hello"
+    bar: "World"
